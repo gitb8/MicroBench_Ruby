@@ -23,7 +23,7 @@ first = Benchmark.measure {
         # a += 2        # reverse test
 
         # bench function
-        func1
+        # func1
         # func2         # reverse test
 
     }   # /1st run
@@ -44,7 +44,7 @@ second = Benchmark.measure {
         # a += 1        # reverse test
 
         # bench function
-        func2
+        # func2
         # func1         # reverse test
 
     }   # /2nd run
